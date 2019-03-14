@@ -1,0 +1,92 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./apps/.*
+- ./bin/.*
+- ./bin/org/.*
+- ./bin/org/lnicholls/.*
+- ./bin/org/lnicholls/galleon/.*
+- ./bin/org/lnicholls/galleon/app/.*
+- ./bin/org/lnicholls/galleon/apps/.*
+- ./bin/org/lnicholls/galleon/apps/audioScrobbler/.*
+- ./bin/org/lnicholls/galleon/apps/desktop/.*
+- ./bin/org/lnicholls/galleon/apps/email/.*
+- ./bin/org/lnicholls/galleon/apps/iTunes/.*
+- ./bin/org/lnicholls/galleon/apps/internet/.*
+- ./bin/org/lnicholls/galleon/apps/internetSlideshows/.*
+- ./bin/org/lnicholls/galleon/apps/jabber/.*
+- ./bin/org/lnicholls/galleon/apps/jukebox/.*
+- ./bin/org/lnicholls/galleon/apps/menu/.*
+- ./bin/org/lnicholls/galleon/apps/movies/.*
+- ./bin/org/lnicholls/galleon/apps/music/.*
+- ./bin/org/lnicholls/galleon/apps/musicOrganizer/.*
+- ./bin/org/lnicholls/galleon/apps/photos/.*
+- ./bin/org/lnicholls/galleon/apps/playlists/.*
+- ./bin/org/lnicholls/galleon/apps/podcasting/.*
+- ./bin/org/lnicholls/galleon/apps/rss/.*
+- ./bin/org/lnicholls/galleon/apps/shoutcast/.*
+- ./bin/org/lnicholls/galleon/apps/togo/.*
+- ./bin/org/lnicholls/galleon/apps/traffic/.*
+- ./bin/org/lnicholls/galleon/apps/upcoming/.*
+- ./bin/org/lnicholls/galleon/apps/videocasting/.*
+- ./bin/org/lnicholls/galleon/apps/weather/.*
+- ./bin/org/lnicholls/galleon/data/.*
+- ./bin/org/lnicholls/galleon/database/.*
+- ./bin/org/lnicholls/galleon/downloads/.*
+- ./bin/org/lnicholls/galleon/goback/.*
+- ./bin/org/lnicholls/galleon/gui/.*
+- ./bin/org/lnicholls/galleon/media/.*
+- ./bin/org/lnicholls/galleon/server/.*
+- ./bin/org/lnicholls/galleon/skins/.*
+- ./bin/org/lnicholls/galleon/togo/.*
+- ./bin/org/lnicholls/galleon/util/.*
+- ./bin/org/lnicholls/galleon/widget/.*
+- ./bin/org/lnicholls/galleon/winamp/.*
+- ./conf/.*
+- ./distro/.*
+- ./distro/osx/.*
+- ./distro/osx/bundles/.*
+- ./distro/osx/bundles/Configure Galleon.app/.*
+- ./distro/osx/bundles/Configure Galleon.app/Contents/.*
+- ./distro/osx/bundles/Configure Galleon.app/Contents/MacOS/.*
+- ./distro/osx/bundles/Galleon Server.app/.*
+- ./distro/osx/bundles/Galleon Server.app/Contents/.*
+- ./distro/osx/bundles/Galleon Server.app/Contents/MacOS/.*
+- ./distro/unix/.*
+- ./distro/win32/.*
+- ./doc/.*
+- ./lib/.*
+- ./lib/osx/.*
+- ./lib/unix/.*
+- ./lib/win32/.*
+- ./media/.*
+- ./media/fonts/.*
+- ./media/images/.*
+- ./media/images/audioScrobbler/.*
+- ./media/images/camera/.*
+- ./media/images/desktop/.*
+- ./media/images/email/.*
+- ./media/images/iTunes/.*
+- ./media/images/internet/.*
+- ./media/images/internetSlideshows/.*
+- ./media/images/jabber/.*
+- ./media/images/jukebox/.*
+- ./media/images/menu/.*
+- ./media/images/movies/.*
+- ./media/images/music/.*
+- ./media/images/musicOrganizer/.*
+- ./media/images/photos/.*
+- ./media/images/playlists/.*
+- ./media/images/podcasting/.*
+- ./media/images/rss/.*
+- ./media/images/shoutcast/.*
+- ./media/images/tivo/.*
+- ./media/images/togo/.*
+- ./media/images/traffic/.*
+- ./media/images/upcoming/.*
+- ./media/images/videocasting/.*
+- ./media/images/weather/.*
+- ./media/images/widget/.*
+- ./media/sounds/.*
+- ./skins/.*
